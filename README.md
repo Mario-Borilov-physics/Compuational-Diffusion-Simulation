@@ -1,5 +1,7 @@
 # The Project
 This project is a computational simulation that simulates the physical process of diffusion in Python.
+The pysics, mathematics  and the simulation technique behid this program can be found here:
+
 # Features
 - physics based simulation
 - the calculations are done via NumPy
