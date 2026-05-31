@@ -11,4 +11,4 @@ The pysics, mathematics  and the simulation technique behid this program can be 
 # How to run
 ``` bash
 pip install numpy matplotlib
- python diffusion_sim.py
+python diffusion_sim.py
